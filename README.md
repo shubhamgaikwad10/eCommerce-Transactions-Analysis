@@ -23,9 +23,6 @@ The dataset includes the following files:
    - Evaluation using metrics like the Davies-Bouldin Index.
    - Visualizations of customer clusters.
 
-4. **Predictive Modeling** (optional):
-   - Building machine learning models for predicting customer behavior or sales.
-
 ## Deliverables:
 - Jupyter Notebooks/Python scripts for analysis.
 - Reports summarizing insights and model performance.
