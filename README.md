@@ -2,6 +2,11 @@
 
 This repository contains a comprehensive analysis of an eCommerce Transactions dataset. The project involves exploratory data analysis (EDA), predictive modeling, and actionable business insights generation. 
 
+## Objectives:
+- Understand customer behavior and preferences.
+- Improve sales strategies and customer engagement.
+- Derive actionable insights for business growth.
+
 ## Dataset Overview:
 The dataset includes the following files:
 - **Customers.csv**: Contains customer information such as ID, name, region, and signup date.
@@ -34,8 +39,3 @@ The dataset includes the following files:
 2. Install required dependencies:  
    `pip install -r requirements.txt`
 3. Run Jupyter notebooks or Python scripts in the `notebooks` or `scripts` folder.
-
-## Objectives:
-- Understand customer behavior and preferences.
-- Improve sales strategies and customer engagement.
-- Derive actionable insights for business growth.
